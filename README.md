@@ -20,7 +20,7 @@ Feel free to explore my GitHub repositories and projects. I'm always excited to 
       <img height=50 align="center" margin=20px src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 <div/>
-<p>====================================================================================================================</p>
+<p>========================================================================================</p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" margin=20 src="https://github-readme-stats.vercel.app/api?username=RaySidney" />
 </a>
